@@ -9,7 +9,7 @@ UOverlayWidgetController* AAuraHUD::GetOverlayWidgetController(const FWidgetCont
 	{
 		OverlayWidgetController= NewObject<UOverlayWidgetController>(this, OverlayWidgetControllerClass);
 		OverlayWidgetController->SetWidgetControllerParams(WCParams);
-
+		OverlayWidgetController->BindCallbacksTODependencies();
 		return OverlayWidgetController;
 	}
 	return OverlayWidgetController;
