@@ -32,14 +32,14 @@ protected:
 	UPROPERTY(EditAnywhere, Category="Combat")
 	FName WeaponTipSocketName;
 
+	UPROPERTY(BlueprintReadOnly)
+	TObjectPtr<UAttributeSet> AttributeSet;
+
 	virtual FVector GetCombatSocketLocation() override;
 
 	UPROPERTY()
 	TObjectPtr<UAbilitySystemComponent> AbilitySystemComponent;
-
-	UPROPERTY()
-	TObjectPtr<UAttributeSet> AttributeSet;
-
+	
 	virtual void InitAbilityActorInfo();
 
 	UPROPERTY(BlueprintReadOnly, EditAnywhere, Category="Attributes")
@@ -52,7 +52,7 @@ protected:
 	TSubclassOf<UGameplayEffect> DefaultVitalAttributes;
 
 	void ApplyEffectToSelf(TSubclassOf<UGameplayEffect> GameplayEffectClass, float Level) const;
-	void InitializeDefaultAttributes() const;
+	virtual void InitializeDefaultAttributes() const;
 
 	void AddCharacterAbilities();
 private:
