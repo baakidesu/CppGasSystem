@@ -4,7 +4,7 @@
 #include "AuraAbilityTypes.generated.h"
 
 USTRUCT(BlueprintType)
-struct FAuraGameplayEffectContext : public  FGameplayEffectContext
+struct FAuraGameplayEffectContext : public  FGameplayEffectContext 
 {
 	GENERATED_BODY()
 
