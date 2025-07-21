@@ -8,40 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e6d8447-6fa1-45a1-a329-4a87f598312c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Aura.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aura.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/Aura.uproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aura.uproject.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/Aura.uproject.DotSettings.user" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/AbilitySystem/Data/DA_AttributeInfo.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/AbilitySystem/Data/DA_AttributeInfo.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/AbilitySystem/Data/DA_CharacterClassInfo.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/AbilitySystem/Data/DA_CharacterClassInfo.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/AbilitySystem/GameplayAbilities/Fire/FireBolt/CT_Damage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/AbilitySystem/GameplayAbilities/Fire/FireBolt/CT_Damage.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/AbilitySystem/GameplayAbilities/Fire/FireBolt/GA_FireBolt.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/AbilitySystem/GameplayAbilities/Fire/FireBolt/GA_FireBolt.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAttributes/GE_SecondaryAttributes.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAttributes/GE_SecondaryAttributes.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAttributes/GE_SecondaryAttributes_Test.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAttributes/GE_SecondaryAttributes_Test.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actor/Area/BP_FireArea.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actor/Area/BP_FireArea.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actor/Crystal/BP_HealthCrystal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actor/Crystal/BP_HealthCrystal.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actor/Crystal/BP_ManaCrystal.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actor/Crystal/BP_ManaCrystal.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actor/Potion/BP_HealthPotion.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actor/Potion/BP_HealthPotion.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Actor/Potion/BP_ManaPotion.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Actor/Potion/BP_ManaPotion.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Character/Aura/BP_AuraCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Character/Aura/BP_AuraCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Character/BP_EnemyBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Character/BP_EnemyBase.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/UI/AttributeMenu/WBP_AttributeMenu.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/UI/AttributeMenu/WBP_AttributeMenu.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/UI/ProgressBar/WBP_GlobeProgressBar.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/UI/ProgressBar/WBP_GlobeProgressBar.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Aura.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Aura.Build.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/AbilitySystem/Abilities/AuraProjectileSpell.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/AbilitySystem/Abilities/AuraProjectileSpell.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/AbilitySystem/AuraAttributeSet.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/AbilitySystem/AuraAttributeSet.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/AbilitySystem/ExecCalc/ExecCalc_Damage.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/AbilitySystem/ExecCalc/ExecCalc_Damage.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/Actor/AuraEffectActor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/Actor/AuraEffectActor.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/Actor/AuraProjectile.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/Actor/AuraProjectile.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/AuraGameplayTags.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/AuraGameplayTags.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/Character/AuraEnemy.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/Character/AuraEnemy.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Private/Player/AuraPlayerController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Private/Player/AuraPlayerController.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/AbilitySystem/Abilities/AuraGameplayAbility.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/AbilitySystem/Abilities/AuraGameplayAbility.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/AbilitySystem/Abilities/AuraProjectileSpell.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/AbilitySystem/Abilities/AuraProjectileSpell.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/AbilitySystem/AuraAttributeSet.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/AbilitySystem/AuraAttributeSet.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/Actor/AuraEffectActor.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/Actor/AuraEffectActor.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/AuraGameplayTags.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/AuraGameplayTags.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Aura/Public/Character/AuraEnemy.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Aura/Public/Character/AuraEnemy.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/AI/BT_EnemyBehaviourTree.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/AI/BT_EnemyBehaviourTree.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +22,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="cidr-memory-view://8" root0="FORCE_HIGHLIGHTING" />
+    <setting file="cidr-memory-view://9" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://C:/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Core/Public/Containers/Set.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://C:/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/Core/Public/String/FormatStringSan.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://C:/Program Files/Epic Games/UE_5.4/Engine/Source/Runtime/CoreUObject/Public/Templates/SubclassOf.h" root0="FORCE_HIGHLIGHTING" />
@@ -216,7 +183,7 @@
       <workItem from="1752941545233" duration="3164000" />
       <workItem from="1752986073619" duration="3452000" />
       <workItem from="1753000254983" duration="5307000" />
-      <workItem from="1753102157890" duration="5532000" />
+      <workItem from="1753102157890" duration="6151000" />
     </task>
     <servers />
   </component>
