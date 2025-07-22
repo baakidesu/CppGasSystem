@@ -31,6 +31,9 @@ public:
 	/** Combat Interface*/
 	virtual int32 GetPlayerLevel() override;
 	virtual void Die() override;
+
+	virtual void SetCombatTarget_Implementation(AActor* InCombatTarget) override;
+	virtual AActor* GetCombatTarget_Implementation() const override;
 	/** end Combat Interface*/
 
 	UPROPERTY(BlueprintAssignable)
@@ -69,4 +72,7 @@ protected:
 
 	UPROPERTY()
 	TObjectPtr<AAuraAIController> AuraAIController;
+
+	UPROPERTY(BlueprintReadWrite, Category="Combat")
+	TObjectPtr<AActor> CombatTarget;
 };
