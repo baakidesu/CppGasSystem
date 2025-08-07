@@ -52,6 +52,9 @@ public:
 
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category="Combat")
 	float LifeSpan = 5.f;
+
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category="Combat")
+	TObjectPtr<AActor> CombatTarget;
 protected:
 	virtual void BeginPlay() override;
 	virtual void InitAbilityActorInfo() override;
@@ -72,7 +75,4 @@ protected:
 
 	UPROPERTY()
 	TObjectPtr<AAuraAIController> AuraAIController;
-
-	UPROPERTY(BlueprintReadWrite, Category="Combat")
-	TObjectPtr<AActor> CombatTarget;
 };
